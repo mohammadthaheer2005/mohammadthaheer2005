@@ -11,6 +11,10 @@ I am a passionate software engineer focused on building intelligent systems that
 - **Automation:** Playwright, Selenium, PyInstaller (Desktop App Packaging).
 - **Web:** Streamlit, Flask, Modern HTML/CSS.
 
+### [🤖 AI Browser Command Center](https://github.com/mohammadthaheer2005/ai-browser-command-center)
+A desktop AI agent with voice control that can "work" the browser like a human.  
+*Python | Playwright | Gemini 1.5 Pro*
+
 ### [🛰️ AgriVision AI Platform](https://github.com/mohammadthaheer2005/agrivision-ai-platform)
 An enterprise-grade agricultural intelligence hub for real-time crop disease detection, yield optimization, and precision farming.
 *Python | FastAPI | Streamlit | Groq AI & Vision*
@@ -18,10 +22,6 @@ An enterprise-grade agricultural intelligence hub for real-time crop disease det
 ### [🌊 Neon Ocean Monitor](https://github.com/mohammadthaheer2005/neon-ocean-monitor)
 A marine intelligence system for Harmful Algal Bloom (HAB) prediction and environmental monitoring using satellite remote sensing and digital twin technology.
 *ML | Satellite Data Science | Python | Environmental AI*
-
-### [🤖 AI Browser Command Center](https://github.com/mohammadthaheer2005/ai-browser-command-center)
-A desktop AI agent with voice control that can "work" the browser like a human.  
-*Python | Playwright | Gemini 1.5 Pro*
 
 ### [🚗 Smart Car Sales Predictor](https://github.com/mohammadthaheer2005/Smart_Car_Sales_Predictor)
 A computer vision system that identifies car models and calculates real-time price depreciation and EMI.  
